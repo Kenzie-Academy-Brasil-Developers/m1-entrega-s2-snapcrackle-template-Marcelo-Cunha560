@@ -20,4 +20,4 @@ function snapCrackle(maxValue){
 
 }
 
-console.log(snapCrackle(1))
+console.log(snapCrackle(12))
